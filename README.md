@@ -23,7 +23,7 @@ Not all the policies here were written by me. I've taken inspiration from variou
 
 ## Explore Further
 
-For more resources on Cloud Security, including training, interviews, and other valuable content, check out the [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/aws-podcast/id1122785133). It's a great way to dive deeper into the world of Cloud Security.
+For more resources on Cloud Security and other valuable content, check out the [AWS Podcast](https://podcasts.apple.com/us/podcast/aws-podcast/id1122785133). It's a great way to dive deeper into the world of Cloud and Cloud Security.
 
 ## TOP 5 Security Best Practices
 - Data Protection & Residency in accordance to Security Policy Identity & Access Management with Least Privilege
