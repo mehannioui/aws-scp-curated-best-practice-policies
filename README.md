@@ -19,8 +19,16 @@ This is a collaborative effort, and I welcome contributions from anyone interest
 
 ## Acknowledgment
 
-Not all the policies here were written by me. I've taken inspiration from various sources, including the official AWS SCP examples and Scott Piper's Blog.
+Not all the policies here were written by me. I've taken inspiration from various sources, including the official AWS SCP examples and [Scott Piper's Blog](https://duo.com/blog/post-author/spiper).
 
 ## Explore Further
 
-For more resources on Cloud Security, including training, interviews, and other valuable content, check out the [Cloud Security Podcast](#). It's a great way to dive deeper into the world of Cloud Security.
+For more resources on Cloud Security, including training, interviews, and other valuable content, check out the [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/aws-podcast/id1122785133). It's a great way to dive deeper into the world of Cloud Security.
+
+## TOP 5 Security Best Practices
+- Data Protection & Residency in accordance to Security Policy Identity & Access Management with Least Privilege
+- Governance & Compliance of AWS Services being used
+- Global vs Regional Services
+- Compliant Services
+- Shared Responsibility of Threat Detection.
+- Incident Response Plans to include Cloud
